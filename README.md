@@ -17,9 +17,31 @@ Here are some screenshots of the app to give users a visual representation of th
 - SQFlite: SQFlite package for local database storage
 - Other dependencies are listed in the pubspec.yaml file.
 
+## Installation
+To run the app locally, follow these steps:
+- Clone the repository:
+```sh
+git clone https://github.com/chamal817/todo.git
+```
+
+- Navigate to the project directory:
+```sh
+cd todo
+```
+
+- Install dependencies:
+```sh
+flutter pub get
+```
+
+- Run the app:
+```sh
+flutter run
+```
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can start a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
