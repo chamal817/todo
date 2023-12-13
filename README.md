@@ -10,31 +10,31 @@ This Flutter Android Todo app is a simple yet efficient task manager application
 
 ## Screenshots
 Here are some screenshots of the app to give users a visual representation of the app's interface.
+![](https://i.ibb.co/jTpMn1s/0111.png)
 
 ## Dependencies
 - Flutter: Flutter SDK
 - Provider: Provider package for state management
-- SQFlite: SQFlite package for local database storage
 - Other dependencies are listed in the pubspec.yaml file.
 
 ## Installation
 To run the app locally, follow these steps:
-- Clone the repository:
+1 Clone the repository:
 ```sh
 git clone https://github.com/chamal817/todo.git
 ```
 
-- Navigate to the project directory:
+2 Navigate to the project directory:
 ```sh
 cd todo
 ```
 
-- Install dependencies:
+3 Install dependencies:
 ```sh
 flutter pub get
 ```
 
-- Run the app:
+4 Run the app:
 ```sh
 flutter run
 ```
