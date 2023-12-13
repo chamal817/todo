@@ -9,7 +9,7 @@ This Flutter Android Todo app is a simple yet efficient task manager application
 - Persistent Storage: Tasks are stored locally on the device for offline access.
 
 ## Screenshots
-Include screenshots of the app to give users a visual representation of the app's interface.
+Here are some screenshots of the app to give users a visual representation of the app's interface.
 
 ## Dependencies
 - Flutter: Flutter SDK
