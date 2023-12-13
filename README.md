@@ -54,6 +54,10 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to create a pull request or open an issue.
+## Authors
+1. [Chamal Kaviranga](https://github.com/chamal817 "Chamal Kaviranga")
+2. [Supun Jayarathne](https://github.com/Supun-Jayarathne "Supun Jayarathne")
+3. [Dinusha Herath](https://github.com/dinushahearth "Dinusha Herath")
 
 ## License
 This Flutter Android Todo app is open-source and distributed under the MIT License.
